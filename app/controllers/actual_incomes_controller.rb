@@ -1,0 +1,2 @@
+class ActualIncomesController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class MoneyEventsController < ApplicationController
+end

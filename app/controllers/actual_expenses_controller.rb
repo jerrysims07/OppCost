@@ -1,0 +1,2 @@
+class ActualExpensesController < ApplicationController
+end

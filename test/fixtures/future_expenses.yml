@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  expected_date: 2018-04-06
+  obligation_type_id: 1
+
+two:
+  expected_date: 2018-04-06
+  obligation_type_id: 1

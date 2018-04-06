@@ -1,0 +1,2 @@
+class FutureIncomesController < ApplicationController
+end
